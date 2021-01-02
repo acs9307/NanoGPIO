@@ -6,6 +6,8 @@ C GPIO library for the NVIDIA Jetson Nano.
 TODO
 
 * Create basic gpio functions.
-* Add class structures for GPIOs for management.
+	* DigitalRead
 * Add PWM
+	* PWMWrite
+	* PWMRead
 * Provide extensible design to be used with other linux based embedded devices.
